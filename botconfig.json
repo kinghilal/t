@@ -1,0 +1,41 @@
+{
+    "core": {
+        "token": "NTM5NTUwODcxNzEzODczOTYx.DzD_tQ.tCWXlIQvjmRk1HF2swKW8xIla4I",
+        "prefix": "+!"
+    },
+    "database": {
+        "user": "admin",
+        "pass": "kio2334751",
+        "host": "localhost",
+        "port": "28015"
+    },
+    "permissions": {
+        "eval": ["212445217763229699", "152664793587777537"]
+    },
+    "stats": {
+        "dbots": {
+            "enabled": false,
+            "token": "Discord Bots API token",
+            "bot_id": "Discord Bots bot ID"
+        }
+    },
+    "influx": {
+        "use": false,
+        "username": "",
+        "password": ""
+    },
+    "misc": {
+        "defaultGame": "LoggerV2 | %setchannel | https://whatezlife.com/dashboard/"
+    },
+    "commands": {
+        "eval": ["212445217763229699"]
+    },
+    "dev": {
+        "usedash": false
+    },
+    "raven": {
+        "url": "xd"
+    },
+    "shardMode": false,
+    "shardCount": 4
+}
